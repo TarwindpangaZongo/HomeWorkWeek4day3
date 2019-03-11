@@ -1,9 +1,9 @@
 
-package com.example.homeworkweek4day3.model.user;
+package com.example.homeworkweek4day3.model.repo.user;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-import android.os.Parcelable.Creator;
+
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
